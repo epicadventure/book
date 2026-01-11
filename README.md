@@ -11,7 +11,6 @@ A modern REST API built with Node.js, TypeScript, PostgreSQL, and Prisma for man
 - ✅ Centralized error handling
 - ✅ Logging with Morgan
 - ✅ Unit tests with Jest
-- ✅ Modern ES6+ syntax
 - ✅ MVC architecture
 
 ## 🛠️ Tech Stack
@@ -27,16 +26,16 @@ A modern REST API built with Node.js, TypeScript, PostgreSQL, and Prisma for man
 
 ## 📋 Prerequisites
 
-- Node.js (v18 or higher)
-- PostgreSQL (v14 or higher)
-- npm or yarn
+- Node.js (v20)
+- PostgreSQL (v17)
+- npm
 
 ## 🔧 Installation
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/book-management-api.git
-cd book-management-api
+git clone https://github.com/ranjanniharbiswal/Book-Management-System.git
+cd book-management
 ```
 
 2. **Install dependencies:**
